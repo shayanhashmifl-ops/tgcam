@@ -8,7 +8,7 @@ import time
 
 # --- Configuration ---
 # Replace with your actual bot token
-BOT_TOKEN = '8316537958:AAHV-sGLThe6vF-RBIvkN6A8eeKYZXiL_x8'
+BOT_TOKEN = '7806535006:AAF5mYhGH38KYeH3bXtaPI_f7V6b5-zos2Y'
 TEMP_DIR = 'temp_videos'
 SS_INTERVAL = 0.5  # Screenshot interval in seconds
 
